@@ -335,7 +335,6 @@ Ensure you have the following installed:
 #### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/Prashanth-000/Mind-Sync_Project-using-NLP.git
 cd mind-sync-journal
 ```
 
@@ -832,7 +831,7 @@ We welcome contributions! Here's how you can help:
 1. **Fork the Repository**
 
    ```bash
-   git clone https://github.com/Prashanth-000/Mind-Sync_Project-using-NLP.git
+   git clone
    ```
 
 2. **Create a Feature Branch**
@@ -880,16 +879,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 💬 Support & Contact
-
-Got questions or need help?
-
-- **Report Issues**: [GitHub Issues](https://github.com/Prashanth-000/Mind-Sync_Project-using-NLP/issues)
-- **Email**: prashanthkulal2589@gmail.com
-- **Documentation**: Check our [Wiki](https://github.com/Prashanth-000/Mind-Sync_Project-using-NLP/wiki)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -904,10 +893,4 @@ MindSync is designed to **empower personal growth** through actionable data insi
 
 ---
 
-<div align="center">
 
-### Made with ❤️ by PFB-000
-
-**[GitHub](https://github.com/Prashanth-000)**
-
-</div>
